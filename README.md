@@ -15,7 +15,7 @@ I build scalable applications for web, mobile, and backend systems, focusing on 
 ---
 
 ## 📫 Contact Me
-- LinkedIn: [linkedin.com/in/josep](https://linkedin.com/in/josep)  
+- LinkedIn: [linkedin.com/in/jb-tiglao/](https://linkedin.com/in/jb-tiglao/)  
 
 ---
 
