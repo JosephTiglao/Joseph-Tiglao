@@ -1,25 +1,26 @@
 # Hi, I'm Joseph Tiglao
-
-**Software Developer | Web & Mobile App Developer | BSIT Student**  
-I build scalable applications for web, mobile, and backend systems, focusing on clean code, problem-solving, and learning new technologies.
+**Software Engineer | Full-Stack Web & Mobile Developer | Data Analyst**  
+A fresh graduate building end-to-end web and mobile applications with a focus on clean architecture, scalable backend systems, and meaningful user experiences.
 
 ---
 
 ## Skills
-**Languages & Frameworks:** Python (Flask), JavaScript, Dart, Node.js, PHP, Flutter, MERN Stack  
-**Mobile Development:** Flutter (iOS & Android)  
-**Web Development:** HTML, CSS, JavaScript 
-**Databases:** MySQL, MongoDB, Firebase  
-**Other:** Git, REST APIs, OOP
+**Languages:** Python, JavaScript, TypeScript, Java, C++, C#, PHP, Dart  
+**Frontend & Mobile:** React, TailwindCSS, Flutter  
+**Backend:** Node.js, Express.js, Flask, Laravel, ASP.NET  
+**Databases:** PostgreSQL, MySQL, MongoDB, Firebase, SQLite  
+**Deployment & DevOps:** Docker, Render, Vercel  
+**Tools:** Git, GitHub, Bitbucket, Postman, VS Code  
 
 ---
 
 ## Contact Me
-- LinkedIn: [linkedin.com/in/jb-tiglao/](https://linkedin.com/in/jb-tiglao/)  
+- LinkedIn: [linkedin.com/in/jb-tiglao](https://linkedin.com/in/jb-tiglao/)
 
 ---
 
 ## Active Projects
-- Mobile apps with Flutter
-- Web applications and REST APIs using Flask and Node.js  
-- Full-stack apps using MERN Stack and PHP with database integration
+- Cross-platform mobile applications built with Flutter and Dart
+- Full-stack web applications using React, Node.js, and Express.js
+- Backend REST APIs with Flask, Laravel, and ASP.NET
+- Database-driven systems with PostgreSQL, MySQL, and MongoDB
