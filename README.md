@@ -5,13 +5,13 @@ Building end-to-end web and mobile applications with a focus on clean architectu
 ---
 
 ## Skills
-**Languages:** Python, Java, C++, C#, PHP, JavaScript, TypeScript, Dart
-**Frontend & Mobile:** HTML5, CSS3, React, TailwindCSS, Bootstrap, jQuery, Flutter
-**Backend:** NodeJS, ExpressJS, Flask, Laravel, ASP.NET
-**Database:** PostgreSQL, MySQL, MongoDB, Firebase, SQLite
-**Deployment:** Render, Vercel, Docker, Github Action
-**Cloud:** AWS
-**Tools:** Git, GitHub, Bitbucket, VS Code, Postman 
+**Languages:** Python, Java, C++, C#, PHP, JavaScript, TypeScript, Dart  
+**Frontend & Mobile:** HTML5, CSS3, React, TailwindCSS, Bootstrap, jQuery, Flutter  
+**Backend:** NodeJS, ExpressJS, Flask, Laravel, ASP.NET  
+**Database:** PostgreSQL, MySQL, MongoDB, Firebase, SQLite  
+**Deployment:** Render, Vercel, Docker, Github Actions  
+**Cloud:** AWS  
+**Tools:** Git, GitHub, Bitbucket, VS Code, Postman  
 
 ---
 
