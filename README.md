@@ -1,16 +1,17 @@
 # Hi, I'm Joseph Tiglao
-**Software Engineer | Full-Stack Web & Mobile Developer | Data Analyst**  
-A fresh graduate building end-to-end web and mobile applications with a focus on clean architecture, scalable backend systems, and meaningful user experiences.
+**Software Engineer | Full-Stack Web Developer | Mobile Developer**  
+Building end-to-end web and mobile applications with a focus on clean architecture, scalable backend systems, and meaningful user experiences.
 
 ---
 
 ## Skills
-**Languages:** Python, JavaScript, TypeScript, Java, C++, C#, PHP, Dart  
-**Frontend & Mobile:** React, TailwindCSS, Flutter  
-**Backend:** Node.js, Express.js, Flask, Laravel, ASP.NET  
-**Databases:** PostgreSQL, MySQL, MongoDB, Firebase, SQLite  
-**Deployment & DevOps:** Docker, Render, Vercel  
-**Tools:** Git, GitHub, Bitbucket, Postman, VS Code  
+**Languages:** Python, Java, C++, C#, PHP, JavaScript, TypeScript, Dart
+**Frontend & Mobile:** HTML5, CSS3, React, TailwindCSS, Bootstrap, jQuery, Flutter
+**Backend:** NodeJS, ExpressJS, Flask, Laravel, ASP.NET
+**Database:** PostgreSQL, MySQL, MongoDB, Firebase, SQLite
+**Deployment:** Render, Vercel, Docker, Github Action
+**Cloud:** AWS
+**Tools:** Git, GitHub, Bitbucket, VS Code, Postman 
 
 ---
 
